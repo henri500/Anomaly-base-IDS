@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# setting for locale IDE (pycharm)
+
+.idea/
